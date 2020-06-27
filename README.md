@@ -81,5 +81,6 @@ $ candump -n 1 can0,7b3:7ff     #wait for can id 7B3
 ```
 
 Or run `python3 JoyLocal.py` to control a R-Net based PWC using any usb gamepad connected to the pi3.
+Or run `python3 KeyboardLocal.py` to control a R-Net based PWC using WASD controls (space to stop, X to exit).
 
 Python 3 is required.
